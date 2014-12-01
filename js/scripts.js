@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $("#story").hide();
+    $("#story").hide();dfvsd
     $("#story-form").submit(function(event) {
         var blanks = ["person", "adjective", "noun", "insect", "noun2", "verb"];
 
